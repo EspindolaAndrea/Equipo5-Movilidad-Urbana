@@ -11,6 +11,8 @@ Integrantes:
   * Áreas de Oportunidad:
     * Organización de tareas.
     * Me distraigo fácilmente.
+  * Expectativa del bloque:
+    
 * Andrea Alejandra Espíndola Gómez
 * Jacobo Hirsch Rodríguez
 * Jorge Mata ...
