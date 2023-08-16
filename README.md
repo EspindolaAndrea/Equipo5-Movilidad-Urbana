@@ -14,3 +14,4 @@ https://lucid.app/lucidchart/ad47e227-f400-4deb-a576-66a43e16fdf5/edit?viewport_
 Diagrama de Protocolos de Interacción (Secuencia):
 
 Plan de Trabajo y Aprendizajes:
+https://www.canva.com/design/DAFrqId5n2A/Yqh4aWaYfJqpwyWqqzMWCw/edit?utm_content=DAFrqId5n2A&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
