@@ -1,0 +1,27 @@
+INSTRUCCIONES PARA CORRER EL PROYECTO
+
+1.- Descargar Python 3 y Unity (versión 2022.3.6f1 para menor probabilidad de problemas de compatibilidad)
+
+2.- Una vez descargado ambos, crear un proyecto nuevo de Unity
+
+3.- Descargar ProBuilder en el Package Manager de Unity
+	I. Window
+	II. Package Manager
+	III. Seleccionar In Registry
+	IV. Buscar ProBuilder
+	V. Descargar ProBuilder
+
+4.- Importar el unitypackage:
+	I. Assets
+	II. Import Package
+	III. Custom Package
+	IV. Seleccionar el paquete del proyecto (Evidencia2.unitypackage)
+	V. Importar todo el paquete
+
+5.- Entrar a la carpeta Python dentro del unitypackage importado en el proyecto usando el explorador del sistema operativo
+
+6.- Abrir una terminal en la dirección mencionada anteriormente
+
+7.- Correr el comando "python model.py"
+
+8.- Darle play a la simulación en Unity
